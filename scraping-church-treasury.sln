@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Test", "TNN.Test\TNN.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Domain", "TNN.Domain\TNN.Domain\TNN.Domain.csproj", "{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Infra", "TNN.Infra\TNN.Infra\TNN.Infra.csproj", "{428F5E6A-0896-4EF8-911E-9F088935E419}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{428F5E6A-0896-4EF8-911E-9F088935E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{428F5E6A-0896-4EF8-911E-9F088935E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{428F5E6A-0896-4EF8-911E-9F088935E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{428F5E6A-0896-4EF8-911E-9F088935E419}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
