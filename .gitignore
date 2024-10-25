@@ -365,3 +365,4 @@ FodyWeavers.xsd
 /TNN.Infra/TNN.Infra/appsettings.dev.json
 /TNN.Infra/TNN.Infra/appsettings.prod.json
 /TNN.Infra/TNN.Infra/driver
+/TNN.Infra/TNN.Infra/Properties/launchSettings.json
