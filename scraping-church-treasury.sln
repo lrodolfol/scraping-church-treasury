@@ -5,11 +5,17 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TNN.Scrap", "TNN.Scrap\TNN.Scrap.csproj", "{A7B43DF3-C0D2-4267-A301-154D2574C3C4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Test", "TNN.Test\TNN.Test.csproj", "{D4AEB312-DA6F-422B-AE8C-3636BF5FD0F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TNN.Test", "TNN.Test\TNN.Test.csproj", "{D4AEB312-DA6F-422B-AE8C-3636BF5FD0F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Domain", "TNN.Domain\TNN.Domain\TNN.Domain.csproj", "{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TNN.Domain", "TNN.Domain\TNN.Domain\TNN.Domain.csproj", "{1BAD41A9-A47B-46E1-9C9B-06D2641A11D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TNN.Infra", "TNN.Infra\TNN.Infra\TNN.Infra.csproj", "{428F5E6A-0896-4EF8-911E-9F088935E419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TNN.Infra", "TNN.Infra\TNN.Infra\TNN.Infra.csproj", "{428F5E6A-0896-4EF8-911E-9F088935E419}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "files", "files", "{D4979724-7468-4FCF-9819-63DCEEAFB8A0}"
+	ProjectSection(SolutionItems) = preProject
+		compose-dev.yml = compose-dev.yml
+		compose-uat.yml = compose-uat.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
