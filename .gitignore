@@ -362,3 +362,6 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /TNN.Scrap/appsettings.prod.json
+/TNN.Infra/TNN.Infra/appsettings.dev.json
+/TNN.Infra/TNN.Infra/appsettings.prod.json
+/TNN.Infra/TNN.Infra/driver
